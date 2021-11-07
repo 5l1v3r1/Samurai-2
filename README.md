@@ -1,6 +1,7 @@
-[![EmreKybs](https://img.shields.io/badge/MadeBy-EmreKybs-blue)
+[![EmreKybs](https://img.shields.io/badge/MadeBy-EmreKybs-red)
 # SAMURAI
-Samurai is a lightening fast CPU friendly Hash Cracker
+# Supported Hash Types
+md5,sha1,sha256,sha512
 
 <img src="https://github.com/emrekybs/Samurai/blob/main/1.jpg">
 
@@ -12,7 +13,6 @@ Samurai is a lightening fast CPU friendly Hash Cracker
       $ ./instal.sh
 
 # RUNNING
-To run Mahakal Simply Execute the Following Command....with respective values....
       $ python3 samurai.py <hash-value> <hash-type> <path-to-password-file>
 <img src="https://github.com/emrekybs/Samurai/blob/main/2.png">
 
