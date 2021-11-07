@@ -1,8 +1,10 @@
 [![EmreKybs](https://img.shields.io/badge/MadeBy-EmreKybs-red)
 # SAMURAI 
 Samurai is a lightening fast CPU friendly Hash Cracker
-Supported Hash Types
+
+# Supported Hash Types
 md5,sha1,sha256,sha512
+
 <img src="https://github.com/emrekybs/Samurai/blob/main/1.jpg">
 
 # 𝗜𝗡𝗦𝗧𝗔𝗟𝗟𝗔𝗧𝗜𝗢𝗡 𝗜𝗡𝗦𝗧𝗥𝗨𝗖𝗧𝗜𝗢𝗡𝗦
