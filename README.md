@@ -11,7 +11,7 @@ md5,sha1,sha256,sha512
       $ git clone https://github.com/emrekybs/Samurai.git
       $ cd  Samurai
       $ chmod +x install.sh
-      $ ./instal.sh
+      $ ./install.sh
 
 # RUNNING
       $ python3 samurai.py <hash-value> <hash-type> <path-to-password-file>
